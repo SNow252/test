@@ -1,0 +1,9 @@
+========== Results ==========
+ROC_AUC: 0.828284
+Pixel_AUPRC: 0.21530710222489893
+Blur_ROC_AUC: 0.709344
+Blur_Pixel_AUPRC: 0.09577366099802795
+Elapsed_Seconds: 105.00808548927307
+
+========== Config ==========
+Config(seed=42, out_dir='exp_reverse_sweep\\reverse_sweep\\reverse_deterministic', data_root='./data', image_size=32, normal_class=0, train_limit=8000, test_normal_limit=500, test_anomaly_limit=500, T=200, beta_start=0.0001, beta_end=0.02, repair_t=40, stochastic_reverse=False, batch_size=128, epochs=8, lr=0.0002, num_workers=2, anomaly_type='mixed', anomaly_prob_train=0.8, min_rect=4, max_rect=12, scratch_prob=0.5, eval_mask_mode='all', mask_loss_weight=4.0, use_blur_baseline=True, blur_kernel_size=5, save_n=16, device='cuda')

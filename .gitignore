@@ -27,10 +27,3 @@ FashionMNIST/
 *.pt
 *.pth
 *.ckpt
-
-# Experiment outputs
-outputs*/
-diffusion_image_ad_outputs/
-quick_test/
-main_exp/
-exp_*/

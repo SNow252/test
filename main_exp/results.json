@@ -1,0 +1,7 @@
+{
+  "ROC_AUC": 0.781984,
+  "Pixel_AUPRC": 0.2042124874450392,
+  "Blur_ROC_AUC": 0.709344,
+  "Blur_Pixel_AUPRC": 0.09577366099802795,
+  "Elapsed_Seconds": 120.89806699752808
+}

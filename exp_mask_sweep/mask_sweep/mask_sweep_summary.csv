@@ -1,0 +1,4 @@
+﻿group,name,normal_class,anomaly_type,repair_t,T,eval_mask_mode,stochastic_reverse,ROC_AUC,Pixel_AUPRC,Blur_ROC_AUC,Blur_Pixel_AUPRC,Elapsed_Seconds
+mask_sweep,mask_all,0,mixed,40,200,all,False,0.82814,0.21516278863811344,0.709344,0.09577366099802795,114.76374769210815
+mask_sweep,mask_gt,0,mixed,40,200,gt,False,0.999908,0.8061266939542143,0.709344,0.09577366099802795,120.01513361930847
+mask_sweep,mask_none,0,mixed,40,200,none,False,0.8337239999999999,0.27430232302228813,0.709344,0.09577366099802795,123.09992337226868

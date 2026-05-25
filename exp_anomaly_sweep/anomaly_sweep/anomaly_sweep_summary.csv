@@ -1,0 +1,5 @@
+﻿group,name,normal_class,anomaly_type,repair_t,T,eval_mask_mode,stochastic_reverse,ROC_AUC,Pixel_AUPRC,Blur_ROC_AUC,Blur_Pixel_AUPRC,Elapsed_Seconds
+anomaly_sweep,anomaly_rect,0,rect,40,200,all,False,0.7265360000000001,0.07835501944753225,0.619336,0.038276380033762054,103.36750364303589
+anomaly_sweep,anomaly_scratch,0,scratch,40,200,all,False,0.816236,0.12878760427832184,0.6506500000000001,0.05711755615409288,106.05433416366577
+anomaly_sweep,anomaly_noise,0,noise,40,200,all,False,0.968348,0.5039940327568927,0.8597520000000001,0.24770843179645294,110.21835064888
+anomaly_sweep,anomaly_mixed,0,mixed,40,200,all,False,0.827636,0.2148924027614489,0.709344,0.09577366099802795,108.81309151649475
