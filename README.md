@@ -12,7 +12,8 @@ The model learns the normal image distribution through a forward diffusion and r
 - Evaluation with ROC-AUC and Pixel-level AUPRC
 - Ablation experiments for repair steps, anomaly types, mask conditions, and reverse sampling
 
-## Installation
+## Installation and quick start
 
 ```bash
 pip install -r requirements.txt
+python diffusion_image_ad_full.py --mode single --epochs 8 --repair_t 40
